@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: #1B244A
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    color: white;
+}
+
+.rr{
+
+
+ font-size: 50px;
+ 
+}
+
+.pp{
+ font-size: 50px;
+  
+}
+.ee{
+    background-color: black;
+    padding-left: auto;
+    padding-right: auto;
+    margin: auto;
+   
+    
+    
+}
+
+
+.yy{
+    background-color: black;
+
+}
+.tt{
+    border-radius: 9px;
+    color: #9AABD8;
+    background-color: blue;
+  
+}
+
+    
